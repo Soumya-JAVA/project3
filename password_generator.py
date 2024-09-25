@@ -6,7 +6,7 @@
 #Generate Password: Use a combination of random characters to
 #generate a password of the specified length.
 #Display the Password: Print the generated password on the screen.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 import random
 import string
 
